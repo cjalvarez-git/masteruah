@@ -16,4 +16,4 @@ texto ~~tachado~~
 
 [texto del enlace](http://www.google.com)
 
-#![imagen](direccion de la imagen)
+
