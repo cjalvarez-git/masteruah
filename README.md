@@ -16,4 +16,8 @@ texto ~~tachado~~
 
 [texto del enlace](http://www.google.com)
 
-# Texto de prueba
+| Nombre  | GITHUB      |
+|---------|-------------|
+|  Jorge  |             |
+|  Ángel  |             |
+|  Miguel |             |
