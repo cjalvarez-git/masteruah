@@ -23,5 +23,4 @@ texto ~~tachado~~
 |  Miguel |             |
 
 
-
-Solo para el branch
+Adios
