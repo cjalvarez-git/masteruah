@@ -23,7 +23,8 @@ texto ~~tachado~~
 |  Miguel |             |
 
 
+<<<<<<< HEAD
 
-Solo para el branch
+Hola
 
-Adios
+>>>>>>> v0.2
