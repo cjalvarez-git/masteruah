@@ -21,10 +21,3 @@ texto ~~tachado~~
 |  Jorge  |             |
 |  Ángel  |             |
 |  Miguel |             |
-
-
-<<<<<<< HEAD
-
-Hola
-
->>>>>>> v0.2
