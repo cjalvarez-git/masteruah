@@ -16,8 +16,8 @@ texto ~~tachado~~
 
 [texto del enlace](http://www.google.com)
 
-| Nombre  | GITHUB      |
-|---------|-------------|
-|  Jorge  |             |
-|  Ángel  |             |
-|  Miguel |             |
+| Nombre  | GITHUB      				|
+|---------|---------------------------------------------|
+|  Jorge  | [GITGUB](https://github.com/AngelManuelMoya)|
+|  Ángel  | [GITHUB](https://github.com/talusito)       |
+|  Miguel | [GITHUB](https://github.com/jorgesanchezmg6)|
